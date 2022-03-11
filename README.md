@@ -1,3 +1,8 @@
+# Project
+
+This project was done in an evening, it was a first test for a state handled game with React. I had really much fun.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
